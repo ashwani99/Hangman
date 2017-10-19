@@ -18,10 +18,10 @@ It is my final project for the "Android with CS" course by Google.
 - Turn on _Install APKs from unknown sources_ in your android phone
 - Download and install the APK from [here](app/app-release.apk).
 
-##Compatibility 
+### Compatibility 
 
 Android ICE CREAM SANDWICH (4.0) and above
 
-##License
+### License
 MIT
 
